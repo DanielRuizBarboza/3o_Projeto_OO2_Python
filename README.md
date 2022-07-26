@@ -5,7 +5,7 @@
 ###### Neste projeto, o objetivo era criar um programa que fosse capaz de organizar uma playlist de programas nos gerais. Foi abordado majoritariamente a herança de classes no código, onde series e filmes fazem parte de uma mesma classe, programas. Após a declaração de alguns filmes e séries, chamamos a classe de playlist armazenar e exibir uma lista contendo os programas declarados. No final um sistema de likes foi implementado para simulação da utilização da playlist e modificar sua exibição aos usuários.
 
 ## Tópicos abordados:
- Pytho: Avançando na Orientação a Objetos
+ Python: Avançando na Orientação a Objetos
  1. Relembrando classes e objetos
  2. Removendo duplicação com herança
  3. Reduzindo ifs com polimorfismo
